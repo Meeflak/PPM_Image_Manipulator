@@ -1,6 +1,6 @@
 # PPM_Image_Manipulator
 <pre>
-This was a test in data manipulation! 
+This was an exercise in data manipulation! 
 
 The goal of this program was to create an image manipulator that took in PPM images and manipulated them based off a set of different commands
 that could be ran by the program
